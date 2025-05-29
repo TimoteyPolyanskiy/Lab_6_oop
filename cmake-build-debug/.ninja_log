@@ -1,0 +1,7 @@
+# ninja log v6
+9	395	7701814125178712	build.ninja	f9e5ab94fb3f3adf
+11	1433	7701814125796439	CMakeFiles/Lab_6_oop.dir/Funk.cpp.obj	966585b02ba9ad49
+3	1513	7701814125716250	CMakeFiles/Lab_6_oop.dir/main.cpp.obj	8bf3bb43ffb38756
+1514	1801	7701814140821797	Lab_6_oop.exe	3b17e8e98135bc06
+16	1566	7701820535873215	CMakeFiles/Lab_6_oop.dir/main.cpp.obj	8bf3bb43ffb38756
+1567	1793	7701820551385197	Lab_6_oop.exe	3b17e8e98135bc06
